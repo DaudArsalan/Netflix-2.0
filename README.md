@@ -2,7 +2,7 @@
 
 Movix is a movie app built with React 18 and its latest features, designed to provide a seamless user experience for exploring and watching movies and TV shows. The app utilizes React hooks and state management, creating an easy maintainable and scalable folder structure.
 
-## Features
+## Technologies Used
 - Global state containers with Redux Toolkit
 - Fetching data from TMDB API with Axios
 - Creating custom hooks
